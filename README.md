@@ -71,7 +71,7 @@ Este projeto está sob a licença **MIT**, o que dá permissão total para qualq
 
 ## Contato
 
-Se você tiver dúvidas ou quiser discutir o projeto, pode me contatar por meio das issues do GitHub ou enviar um e-mail para [seuemail@example.com].
+Se você tiver dúvidas ou quiser discutir o projeto, pode me contatar por meio das issues do GitHub ou enviar um e-mail para [heitorcontasecundaria@gmail.com].
 
 ---
 
